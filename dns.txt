@@ -1,0 +1,8 @@
+MX.hehehe.ceye.io MX
+txt.hehehe.ceye.io txt
+a.hehehe.ceye.io A
+AAA.hehehe.ceye.io AAAA
+cname.hehehe.ceye.io CNAME
+cert.hehehe.ceye.io CERT
+NS.hehehe.ceye.io NS
+uri.hehehe.ceye.io URI
